@@ -1,0 +1,1 @@
+cargo watch -c -w src -x "run --target x86_64-pc-windows-gnu"

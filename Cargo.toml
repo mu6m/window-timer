@@ -1,0 +1,8 @@
+[package]
+name = "window_timer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+active-win-pos-rs = "0.7"
+serde_json = "1.0"
